@@ -1,7 +1,12 @@
 .header {
-  background: #eee url('../../header-bk.png') center;
+  /* background: #eee url('../../header-bk.png') center; */
   background-size: cover;
   border-bottom: 1px solid #ccc;
+  background-color: #00b712;
+  background-image: linear-gradient(315deg,  #5aff15 0%, #00b712 74%);
+
+
+
 }
 
 .content {
@@ -25,8 +30,8 @@
 
 .add-post-button {
   display: inline-block;
-  color: #FFF;
-  background: #03A9F4;
+  color: #5aff15;
+  background: #00b712;
   padding: 8px 16px;
   text-decoration: none;
   border-radius: 1000px;

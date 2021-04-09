@@ -1,7 +1,10 @@
 .footer{
   text-align: center;
   padding: 56px 0;
+  background: center;
   background-size: cover;
+   background-color: #00b712;
+  background-image: linear-gradient(315deg,  #5aff15 0%, #00b712 74%);
 }
 
 .footer p{

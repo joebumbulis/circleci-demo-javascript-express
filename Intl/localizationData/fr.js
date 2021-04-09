@@ -1,7 +1,7 @@
 export default {
   locale: 'fr',
   messages: {
-    siteTitle: 'MERN blog de démarrage',
+    siteTitle: 'Blog de démonstration pour CircleCI',
     addPost: 'Ajouter Poster',
     switchLanguage: 'Changer de langue',
     twitterMessage: 'Nous sommes sur Twitter',

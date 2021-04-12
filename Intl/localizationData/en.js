@@ -4,7 +4,7 @@ export default {
     siteTitle: 'Demo Blog for CircleCI',
     addPost: 'Add Post',
     switchLanguage: 'Switch Language',
-    twitterMessage: 'We are on Twitter',
+    twitterMessage: 'I am on Twitter',
     by: 'By',
     deletePost: 'Delete Post',
     createNewPost: 'Create new post',
